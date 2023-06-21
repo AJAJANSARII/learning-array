@@ -1,0 +1,20 @@
+{
+  "name": "learning-array",
+  "version": "1.0.0",
+  "description": "i am learning-js ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJAJANSARII/learning-array.git"
+  },
+  "author": "ajaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJAJANSARII/learning-array/issues"
+  },
+  "homepage": "https://github.com/AJAJANSARII/learning-array#readme"
+}
